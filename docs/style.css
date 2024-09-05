@@ -1,11 +1,25 @@
 body {
-    font-family: sans-serif;
-    font-size: 1rem;
-    background-color: rgb(74, 173, 180);
-    color: white;
-  }
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  background-image: url('docs/img/audifonos.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(255, 147, 213);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
 
 img {
-    filter: blur(1px) brightness(110%) contrast(120%);
-    scale: 120%;
-  }
+  filter: blur(1px) brightness(110%) contrast(120%);
+    transform: scale(1.2);
+    margin-top: 1rem;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
