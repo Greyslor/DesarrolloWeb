@@ -38,6 +38,25 @@ function calcularTotal(){
     return total;
 }
 
+//Instruccion 4
+function aplicarDescuento(total){
+    if (total > 100){
+        //Aplica 10% desc
+        return total * .9;
+    }
+    return total;
+}
+
+//Instruccion 5
+function procesarCompra(){
+    console.log("Procesando compra")
+    setTimeout(function(){
+        let total = calcularTotal();
+        total = aplicarDescuento(total);
+        console.log(`Compra completada. Total a pagar: $${total.toFixed(2)}`);
+      }, 3000);
+}
+
 agregarAlCarrito("Pantalones", 3);
 agregarAlCarrito("Pantalones", 4);
 agregarAlCarrito("Pantalones", 2);
@@ -46,5 +65,7 @@ agregarAlCarrito("Pantalones", 2);
 agregarAlCarrito("Camiseta", 2);
 
 console.log(carrito);
-let total = calcularTotal();
-console.log(total);
+/*let total = calcularTotal();
+total = aplicarDescuento(total);
+
+console.log(total);*/
