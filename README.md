@@ -12,4 +12,4 @@
     [_GitHub Pages_ de la práctica 4](https://greyslor.github.io/DesarrolloWeb/Practica-4/)
 
 - 5ta Práctica
-    [_GitHub Pages_ de la práctica 5](https://greyslor.github.io/DesarrolloWeb/practica-5/)
+    [_GitHub Pages_ de la práctica 5](https://greyslor.github.io/DesarrolloWeb/Practica-5/)
