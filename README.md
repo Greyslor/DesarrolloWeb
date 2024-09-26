@@ -16,4 +16,4 @@
     [_Código js_](https://greyslor.github.io/DesarrolloWeb/Practica-5/js/practica-5.js)
 
 - 5ta Práctica
-    [_GitHub Pages_ de la práctica 6](https://greyslor.github.io/DesarrolloWeb/Practica-5/index.html)
+    [_GitHub Pages_ de la práctica 6](https://greyslor.github.io/DesarrolloWeb/Practica-6/index.html)
