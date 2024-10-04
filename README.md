@@ -17,3 +17,6 @@
 
 - 6ta Práctica
     [_GitHub Pages_ de la práctica 6](https://greyslor.github.io/DesarrolloWeb/Practica-6/index.html)
+
+- 7ma Práctica
+    [_GitHub Pages_ de la práctica 7](https://greyslor.github.io/DesarrolloWeb/Practica-7/index.html)
