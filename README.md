@@ -20,3 +20,6 @@
 
 - 7ma Práctica
     [_GitHub Pages_ de la práctica 7](https://greyslor.github.io/DesarrolloWeb/Practica-7/index.html)
+
+- 8va Práctica
+    [_GitHub Pages_ de la práctica 8](https://greyslor.github.io/DesarrolloWeb/Practica-8/index.html)
